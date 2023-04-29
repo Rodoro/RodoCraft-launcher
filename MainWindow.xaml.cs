@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 using CmlLib.Core;
 using CmlLib.Core.Auth;
 
-namespace WpfApp2
+namespace RodoCraft
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
